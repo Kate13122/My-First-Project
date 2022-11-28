@@ -5,6 +5,7 @@ name ="Katarina Hladka"
 print("Hello World")
 print(name)
 
+print ("pes a macka")
 
 
 
